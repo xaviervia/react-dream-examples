@@ -1,0 +1,22 @@
+{
+  "name": "react-dream-examples",
+  "version": "0.0.1",
+  "description": "Examples of usage of React Dream, a Fantasy Land type for React components",
+  "main": "pages/index.js",
+  "repository": "git@github.com:xaviervia/react-dream-examples.git",
+  "author": "Fernando Via Canel <fernando.via@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "next"
+  },
+  "dependencies": {
+    "@klarna/higher-order-components": "^6.1.4",
+    "next": "^6.0.3",
+    "react": "^16.4.0",
+    "react-context-props": "^2.2.0",
+    "react-dom": "^16.4.0",
+    "react-dream-web-builtins": "^0.0.1",
+    "recompose": "^0.27.1"
+  }
+}
