@@ -592,9 +592,9 @@
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/@hocs/with-log/-/with-log-0.1.0.tgz#52d171cdcad863462ee6545c84f4fd97741abc50"
 
-"@klarna/higher-order-components@^6.1.4":
-  version "6.1.4"
-  resolved "https://registry.yarnpkg.com/@klarna/higher-order-components/-/higher-order-components-6.1.4.tgz#acab58b369bcabd9787200ac678d503c4ebeb84f"
+"@klarna/higher-order-components@^6.3.1":
+  version "6.3.1"
+  resolved "https://registry.yarnpkg.com/@klarna/higher-order-components/-/higher-order-components-6.3.1.tgz#a774f34c157d8e7146f0b392c320f3e54414bed1"
   dependencies:
     collect-fps "2.0.0"
     deepmerge "^1.4.4"
@@ -1407,6 +1407,10 @@ electron-to-chromium@^1.3.47:
   version "1.3.48"
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.48.tgz#d3b0d8593814044e092ece2108fc3ac9aea4b900"
 
+elegir@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/elegir/-/elegir-0.1.2.tgz#f2dee74d6b57ff7a4df24ad77a849ef048059c58"
+
 elliptic@^6.0.0:
   version "6.4.0"
   resolved "https://registry.yarnpkg.com/elliptic/-/elliptic-6.4.0.tgz#cac9af8762c85836187003c8dfe193e5e2eae5df"
@@ -1647,6 +1651,12 @@ extglob@^2.0.4:
     regex-not "^1.0.0"
     snapdragon "^0.8.1"
     to-regex "^3.0.1"
+
+fantasy-color@^0.2.2:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/fantasy-color/-/fantasy-color-0.2.2.tgz#5a4af558d947f1ee704193e0c88b890e357dbffe"
+  dependencies:
+    ramda "^0.25.0"
 
 fast-deep-equal@^1.0.0:
   version "1.1.0"
@@ -3112,6 +3122,10 @@ querystring-es3@^0.2.0:
 querystring@0.2.0, querystring@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/querystring/-/querystring-0.2.0.tgz#b209849203bb25df820da756e747005878521620"
+
+ramda@^0.25.0:
+  version "0.25.0"
+  resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.25.0.tgz#8fdf68231cffa90bc2f9460390a0cb74a29b29a9"
 
 randomatic@^3.0.0:
   version "3.0.0"

@@ -8,10 +8,12 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "start": "next"
+    "start": "next -p 4000"
   },
   "dependencies": {
-    "@klarna/higher-order-components": "^6.1.4",
+    "@klarna/higher-order-components": "^6.3.1",
+    "elegir": "^0.1.2",
+    "fantasy-color": "^0.2.2",
     "next": "^6.0.3",
     "react": "^16.4.0",
     "react-context-props": "^2.2.0",
