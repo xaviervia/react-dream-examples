@@ -3174,11 +3174,18 @@ react-dom@^16.4.0:
     object-assign "^4.1.1"
     prop-types "^15.6.0"
 
-react-dream-web-builtins@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/react-dream-web-builtins/-/react-dream-web-builtins-0.0.1.tgz#c97ecffc155a1e278799faefd7a611e80762ff3a"
+react-dream-web-builtins@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/react-dream-web-builtins/-/react-dream-web-builtins-0.0.3.tgz#636375aace87f386ab0b03b4cb3ac69bdb545cfe"
   dependencies:
     react-dream "^0.5.0-1"
+
+react-dream@0.5.1:
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/react-dream/-/react-dream-0.5.1.tgz#bb46d619faf197c9da1f63e2801c33acf2c86467"
+  dependencies:
+    "@hocs/with-debugger" "^0.1.0"
+    "@hocs/with-log" "^0.1.0"
 
 react-dream@^0.5.0-1:
   version "0.5.0-1"

@@ -18,7 +18,8 @@
     "react": "^16.4.0",
     "react-context-props": "^2.2.0",
     "react-dom": "^16.4.0",
-    "react-dream-web-builtins": "^0.0.1",
+    "react-dream": "0.5.1",
+    "react-dream-web-builtins": "^0.0.3",
     "recompose": "^0.27.1"
   }
 }
